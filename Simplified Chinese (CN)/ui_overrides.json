@@ -1,8 +1,0 @@
-{
-  "DST_ITEMGRADETRANSFER_COMPLETE_COMMENT": "\"[align = \"\"left\"\"][font size = \"\"10\"\" color=\"\"ffffff\"\"]强化等级转移已准备完毕。[br][br]转移完成后，[br]强化等级将转移至[/font][font size = \"\"10\"\" color=\"\"f4d762\"\"]%s[/font][font size = \"\"10\"\" color=\"\"ffffff\"\"]。[br][br]点击强化等级转移按钮，[br]即可进行强化等级转移。[/font]\"",
-  "DST_ITEMUPGRADE_MSG_ENERGY_UP": "\"[br]气功%s[font size = \"\"10\"\" color = \"\"10d0dd\"\"]提升[/font] %d -> [font size = \"\"10\"\" color = \"\"10d0dd\"\"]%d[/font]\"",
-  "DST_LIVE_EVENT_LEVEL_2_MESSAGEBOX": "\"[align = \"\"center\"\"]活动结束时若达到第2阶段，[br]即可获得以下奖励。[br][br][font size = \"\"10\"\" color=\"\"ffff00\"\"]HL 胶囊盒 Z32 [30天][br]无线波波 [20个][br]移动速度提升药水 [20个][br]宠物+[/font][br][font size = \"\"8\"\"]（包含前一阶段的奖励。）[/font]\"",
-  "DST_LIVE_EVENT_LEVEL_3_MESSAGEBOX": "\"[align = \"\"center\"\"]活动结束时若达到第3阶段，[br]即可获得以下奖励。[br][br][font size = \"\"10\"\" color=\"\"ffff00\"\"]HL 胶囊盒 Z32 [30天][br]无线波波 [20个][br]移动速度提升药水 [20个][br]宠物+[br]活动称号[br]活动时装[/font][font size = \"\"8\"\"][br]（包含前一阶段的奖励。）[/font]\"",
-  "DST_PARTYPOPO_MB_RECALL_FROM_PARTY_MEMBER": "\"[align = \"\"center\"\"][font size = \"\"12\"\" color=\"\"f4d762\"\"]队员召唤[/font][br][br][font size = \"\"10\"\" color=\"\"269eff\"\"]队员发来了召唤请求。[/font][br][br][font size = \"\"10\"\" color=\"\"f4d762\"\"]移动：瞬间移动至发出召唤请求的地点。[br]取消：拒绝召唤请求。[/font][br][br][font size = \"\"10\"\" color=\"\"ffffff\"\"]您要如何处理召唤请求？[/font]\"",
-  "GAME_CHARM_POINT_IS_LOCKED": "\"尚未完成计算，请稍后再试。\""
-}
